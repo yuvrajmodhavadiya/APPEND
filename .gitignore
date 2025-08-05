@@ -1,0 +1,4 @@
+login.html
+# Ignore all files in the login.html directory
+# except for the index.html file
+rj_form.html

@@ -1,0 +1,52 @@
+@media screen and (min-width:1024px){
+    .cardse-body{
+        width: 100%;
+        right: -100%;
+    }
+    .cardse:hover .cardse-body{
+        right:0%;
+    }
+  }
+  @media screen and (min-width:768px){
+    .cardse-body{
+        width: 100%;
+        right: -100%;
+    }
+    .cardse:hover .cardse-body{
+        right:0%;
+    }
+  }
+  @media screen and (min-width:425px){
+    .cardse-body{
+        width: 100%;
+        right: -100%;
+       
+    }
+    .cardse:hover .cardse-body{
+        right:0%;
+    }
+    .couter {
+        margin: auto;
+        width: 90%;
+    }
+  }
+  @media screen and (min-width:375px){
+    .cardse-body{
+        width: 100%;
+        right: -100%;
+       
+    }
+    .cardse:hover .cardse-body{
+        right:0%;
+    }
+  }
+  @media screen and (min-width:320px){
+    .cardse-body{
+        width: 100%;
+        right: -100%;
+       
+    }
+    .cardse:hover .cardse-body{
+        right:0%;
+    }
+  }
